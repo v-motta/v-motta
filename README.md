@@ -4,7 +4,7 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 	
 <div id="header" align="center">
 	<img src="octocat.png" width="300" />
-	<div>
+	<div style="display:flex; flex-direction:column;">
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code>
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /></code>
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
