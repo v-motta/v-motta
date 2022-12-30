@@ -3,10 +3,7 @@
 I am 21 years old. I am a Front-End Developer with advanced experience in HTML, CSS, Javascript, frameworks as AngularJS and libraries as React and JQuery. I have experience with API Rest and Back-End language as C#
 	
 <div id="header" align="center">
-	<img src="octocat.png" width="300" />
-	
-	![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-	
+	<img src="octocat.png" width="300" />	
 </div>
 
 ### :hammer_and_wrench: Languages and tools:
