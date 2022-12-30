@@ -4,7 +4,9 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 	
 <div id="header" align="center">
 	<img src="octocat.png" width="300" />
+	
 	![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+	
 </div>
 
 ### :hammer_and_wrench: Languages and tools:
