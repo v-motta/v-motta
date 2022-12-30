@@ -4,6 +4,7 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 	
 <div align="start">
 	<img src="octocat.png" width="300" />
+	<img src="https://komarev.com/ghpvc/?username=v-motta&style=flat-square&color=blue" alt=""/>
 </div>
 
 ### :hammer_and_wrench: Languages and tools:
