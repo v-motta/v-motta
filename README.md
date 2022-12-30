@@ -20,3 +20,9 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 	<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></code>
 	<code><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></code>		
 </div>
+<div>
+	<a href="https://github.com/jeniblodev">
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeniblodev&layout=compact&langs_count=8&theme=algolia" />
+	</a>
+</div>
