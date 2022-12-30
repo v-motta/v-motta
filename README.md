@@ -1,6 +1,6 @@
-<div id="header" align="center">
-	<h1>Hello, world!!</h1>
+<h1>Hello, world!!</h1>
 	<p>I am 21 years old. I am a Front-End Developer with advanced experience in HTML, CSS, Javascript, frameworks as AngularJS and libraries as React and JQuery. I have experience with API Rest and Back-End language as C#</p>
+<div id="header" align="center">
 	<img src="octocat.png" width="300" />
 	<div>
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code>
