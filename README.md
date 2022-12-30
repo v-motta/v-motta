@@ -6,8 +6,10 @@
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></code>
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
 		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
+		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" /></code>
+		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" /></code>
+		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></code>
+		<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" /></code>		
 	</div>
 </div>
