@@ -6,7 +6,7 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 	<img src="octocat.png" width="300" />
 </div>
 
-## Languages and tools
+### Languages and tools
 
 <div>
 	<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /></code>
