@@ -24,12 +24,9 @@ I am 21 years old. I am a Front-End Developer with advanced experience in HTML, 
 
 <br>
 <br>
-
-<div>
 	
 ### :fire: My stats: 
 	
-	<a href="https://github.com/v-motta">
-	  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-motta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-	</a>
-</div>
+<a href="https://github.com/v-motta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-motta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+</a>
