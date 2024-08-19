@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vinicius Motta and I'm a Full-Stack Developer, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Vinicius Motta and I'm a Full-Stack Developer, from Brazil</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/mottinha011/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
