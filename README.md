@@ -41,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/v-motta/v-motta/master/gamer-playing-with-computer.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p>🤝 Collaboration is my driving force. I thrive in team environments where I can share knowledge, learn from others, and grow together. I believe technology is a powerful tool for solving problems and making a real difference in the world.</p>
 <p>🎓 Currently, I'm pursuing a Bachelor’s degree in Computer Science at Cruzeiro do Sul Virtual, continuously improving my technical skills and exploring new development methodologies. I'm always eager to learn new programming languages and stay updated with the latest industry trends.</p>
